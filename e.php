@@ -1,2 +1,2 @@
 <?php
-while ('e') echo 'e';
+while (eval("echo 'e';") || 'e');
